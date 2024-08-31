@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExternalResources</string>
+    <string name="welcome_message">Welcome Hutto!!!</string>
+    <string name="good_bye_message">Palayan hutto yanna!!!</string>
+
+    <string name="good_moring_user">Good morning %1$s %2$s</string>
+</resources>

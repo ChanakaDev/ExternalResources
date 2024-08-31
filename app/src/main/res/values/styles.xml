@@ -1,0 +1,8 @@
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/ranilge_pata</item>
+        <item name="colorPrimaryDark">@color/ranilge_pata</item>
+        <item name="colorPrimaryVariant">@color/ranilge_pata</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

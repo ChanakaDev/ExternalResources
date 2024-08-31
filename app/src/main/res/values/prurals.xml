@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="unread_messages">
+        <item quantity="one"> You have %d message.</item>
+    </plurals>
+</resources>
